@@ -7,3 +7,5 @@ yfinance
 
 # Visualization
 matplotlib
+# GUI Framework
+Tkinter
