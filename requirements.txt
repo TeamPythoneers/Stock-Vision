@@ -1,0 +1,9 @@
+# Core Data Processing
+pandas
+numpy
+
+# Market Data
+yfinance
+
+# Visualization
+matplotlib
