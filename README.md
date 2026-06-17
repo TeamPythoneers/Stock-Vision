@@ -454,8 +454,8 @@ System Designer
 </td>
 
 <td align="center">
-<a href="https://github.com/STELLA_GITHUB_USERNAME">
-<img src="https://github.com/STELLA_GITHUB_USERNAME.png" width="120px;" alt="Stella Ghodke"/>
+<a href="https://github.com/stella-stivan">
+<img src="https://github.com/stella-stivan.png" width="120px;" alt="Stella Ghodke"/>
 <br />
 <b>Stella Ghodke</b>
 </a>
