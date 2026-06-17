@@ -44,7 +44,7 @@
 * [⚙️ Installation](#️-installation)
 * [🎓 Learning Outcomes](#-learning-outcomes)
 * [🔮 Future Scope](#-future-scope)
-* [👨‍💻 Team Pythoneers](#-team-pythoneers)
+* [👨‍💻 Team Pythoneers](#team-pythoneers)
 * [📜 License](#-license)
 
 ---
@@ -407,6 +407,8 @@ This project demonstrates practical implementation of:
 * 📡 Real-Time Alerts
 
 ---
+
+<a id="team-pythoneers"></a>
 
 # 👨‍💻 Team Pythoneers
 
